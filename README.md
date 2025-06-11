@@ -17,7 +17,7 @@ My name is David and I am CS enthusiast, currently working in MLOps Backend. I a
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][tech_anchor]
+[<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase" alt="Supabase logo" title="Supabase" height="25" />][tech_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_anchor]
 &nbsp;
